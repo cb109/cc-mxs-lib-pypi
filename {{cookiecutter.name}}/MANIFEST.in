@@ -1,0 +1,4 @@
+recursive-include {{cookiecutter.name}} *
+
+include README.rst
+include LICENSE.rst
