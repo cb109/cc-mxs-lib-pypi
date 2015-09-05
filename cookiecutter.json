@@ -1,0 +1,7 @@
+{
+    "name": "mxs_library",
+    "author": "The Author",
+    "author_email": "author@domain.com",
+    "description": "A MAXScript library to do cool things.",
+    "version": "0.1.0"
+}
